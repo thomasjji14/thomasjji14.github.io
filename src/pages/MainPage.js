@@ -1,6 +1,6 @@
-import Header from './components/Header.jsx'
+import Header from '../components/Header.jsx'
 
-function App() {
+function MainPage() {
   return (
     <div>
       {Header()}
@@ -11,4 +11,4 @@ function App() {
   );
 }
 
-export default App;
+export default MainPage;

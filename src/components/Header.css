@@ -1,7 +1,9 @@
-.cum {
+.header-title {
     background-color: #282c34;
     color: white;
-    padding: 40px;
-    font-family: Arial;
-    text-align: center;
+    /* padding: 20px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
 }
